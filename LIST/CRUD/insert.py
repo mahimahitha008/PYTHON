@@ -1,0 +1,18 @@
+nm=   [9, 8, 7, 6, 5, 4, 3, 2, 1, 0, 9, 8, 7, 6, 5]
+#index 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14
+nm.insert(1,0)
+print(nm)
+nm.insert(2,7)
+print(nm)
+nm.insert(6,9)
+print(nm)
+nm.insert(9,6)
+print(nm)
+nm.insert(12,4)
+print(nm)
+nm.insert(15,2)
+print(nm)
+nm.insert(4,1)
+print(nm)
+nm.insert(5,00)
+print(nm)

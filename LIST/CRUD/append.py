@@ -1,0 +1,18 @@
+mn=   [1, 2, 3, 4, 5, 4, 6, 7, 8, 9, 0]
+#index 0  1  2  3  4  5  6  7  8  9  10
+mn.append(11)
+print(mn)
+mn.append(11)
+print(mn)
+mn.append(12)
+print(mn)
+mn.append(13)
+print(mn)
+mn.append(14)
+print(mn)
+mn.append(15)
+print(mn)
+mn.append(16)
+print(mn)
+mn.append(17)
+print(mn)
